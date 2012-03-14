@@ -1,7 +1,9 @@
-# Maintainer: Aaron Schaefer <aaron@elasticdog.com>
+# Maintainer:
+# Contributor: Aaron Schaefer <aaron@elasticdog.com>
+
 pkgname=python-pexpect
 pkgver=2.3
-pkgrel=5
+pkgrel=6
 pkgdesc='A pure Python Expect-like module'
 arch=('any')
 url='http://pexpect.sourceforge.net/'
